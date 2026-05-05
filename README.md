@@ -59,11 +59,12 @@ The goal is to make scanner behavior easier to understand through visual interac
 
 ### Team Members
 
-- Abdelaziz Amir Abdelaziz � `192300477`
-- Mohammed Amr � `192300311`
-- Ahmed Elbrazany Khedr � `192300475`
-- Abdallah Mousa Abdallah � `192300370`
-- Ahmed Abdelaziz � `192300312`
+- Abdelaziz Amir `192300477`
+- Mohammed Amr `192300311`
+- Ahmed Elbrazany `192300475`
+- Abdallah Mousa `192300370`
+- Ahmed Abdelaziz `192300312`
+- Youssef Mohamed `192200179`
 
 ## Run Locally
 
