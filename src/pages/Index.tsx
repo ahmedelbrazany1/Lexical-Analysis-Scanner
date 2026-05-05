@@ -8,6 +8,7 @@ const TEAM_MEMBERS = [
   { name: "Mohammed Amr", id: "192300311" },
   { name: "Abdallah Mousa", id: "192300370" },
   { name: "Ahmed Abdelaziz", id: "192300312" },
+  { name: "Youssef Mohamed", id: "192200179" },
 ];
 
 const Index = () => {
