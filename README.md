@@ -120,12 +120,11 @@ Add screenshots in:
 docs/images/
 ```
 
-Suggested image names:
+### Home Page
+![Home](https://raw.githubusercontent.com/ahmedelbrazany1/Lexical-Analysis-Scanner/main/docs/images/showcase_home.png)
 
-- `home.png`
-- `compiler.png`
-- `tokens-panel.png`
-- `controls.png`
+### Compiler Page
+![Searching](https://raw.githubusercontent.com/ahmedelbrazany1/Lexical-Analysis-Scanner/main/docs/images/showcase_test.png)
 
 ## Tech Stack
 
